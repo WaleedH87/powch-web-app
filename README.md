@@ -71,6 +71,6 @@ If you see the need for additional documentation or have any suggestions for imp
 
 ## Licensing  :scroll:
 
-The MetaCore website is licensed under the [MIT License](https://opensource.org/license/mit/), which is a permissive open-source license. This means that you can use, modify, and distribute the app for both personal and commercial purposes as long as you include the original copyright and license notice.
+Powch is licensed under the [MIT License](https://opensource.org/license/mit/), which is a permissive open-source license. This means that you can use, modify, and distribute the app for both personal and commercial purposes as long as you include the original copyright and license notice.
 
 >By contributing to this project, you agree to license your contributions under the same MIT License.
