@@ -22,9 +22,11 @@
 
 :zap: Node.js 16
 
+:zap: Material UI
+
 :zap: HTML5
 
-:zap: Tailwind CSS
+:zap: CSS
 
 
 ## Key Features
