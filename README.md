@@ -1,4 +1,4 @@
-# Powch - All in One Property Dashboard
+# Powch - All in One Property Dashboard ![icon](https://res.cloudinary.com/dynzklhmr/image/upload/v1683548757/logo_zqdb2h.png)
 
 >Welcome to Powch! A full-stack MERN web app for the management of property listings and revenue tracking. This is one of my most ambitious projects to date, with several revisions already in the works. Enjoy!
 
