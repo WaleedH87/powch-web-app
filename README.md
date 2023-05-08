@@ -2,7 +2,7 @@
 
 >Welcome to Powch! A full-stack MERN web app for the management of property listings and revenue tracking. This is one of my most ambitious projects to date, with several revisions already in the works. Enjoy!
 
-## [Live Website](https://powch.netlify.app/)
+## [Live Website](https://powch.tech/)
 
 ![Preview](https://res.cloudinary.com/dynzklhmr/image/upload/v1683548140/Powch_Mockup_aeraxn.png)
 
