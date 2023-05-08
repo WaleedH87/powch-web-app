@@ -29,7 +29,7 @@
 
 :green_circle:  Modern, Clean Dashboard with various functionalities.
 
-:green_circle:  Custom REST API/Backend with scalability
+:green_circle:  Custom REST API/Backend with scalability.
 
 :green_circle:  Responsive Web Application.
 
