@@ -66,7 +66,7 @@ If you have suggestions for updates or improvements you would like to see, pleas
 
 If you see the need for additional documentation or have any suggestions for improving the current documentation, please feel free to make the changes and submit a pull request.
 
->Thank you for your interest in contributing to MetaCore! :pray:
+>Thank you for your interest in contributing to Powch! :pray:
 
 
 ## Licensing  :scroll:
